@@ -1,4 +1,4 @@
-# python_twitch_chatbot.py joins channels, reads twitch chat, and calls a chat parser
+# twitch_chatbot.py joins channels, reads twitch chat, and calls a chat parser
 
 import re
 import socket
