@@ -1,4 +1,4 @@
-# service.py reads a json file and creates an API for front end display
+# service.py reads a json file and creates an API allowing for use on HTML pages
 
 from flask import Flask, jsonify, abort, make_response, request, url_for
 import json

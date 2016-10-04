@@ -1,4 +1,4 @@
-# emote_manager.py parses twitch chat and stores emote count in dynamic dictionaries
+# emote_manager.py parses chat messages for emotes and stores emote count in dynamic dictionaries
 
 import json
 import urllib.request
